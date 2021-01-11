@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{A372ACFB-BFC6-473C-8FE0-F591878AA399}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domen", "Domen\Domen.csproj", "{D662489B-367D-40CE-AFCC-7D780DDF4D91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klijent", "Klijent\Klijent.csproj", "{41194FD4-1B99-4874-BE4B-EB4378EB0DA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A372ACFB-BFC6-473C-8FE0-F591878AA399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A372ACFB-BFC6-473C-8FE0-F591878AA399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A372ACFB-BFC6-473C-8FE0-F591878AA399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A372ACFB-BFC6-473C-8FE0-F591878AA399}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D662489B-367D-40CE-AFCC-7D780DDF4D91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D662489B-367D-40CE-AFCC-7D780DDF4D91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D662489B-367D-40CE-AFCC-7D780DDF4D91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D662489B-367D-40CE-AFCC-7D780DDF4D91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41194FD4-1B99-4874-BE4B-EB4378EB0DA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41194FD4-1B99-4874-BE4B-EB4378EB0DA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41194FD4-1B99-4874-BE4B-EB4378EB0DA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41194FD4-1B99-4874-BE4B-EB4378EB0DA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B920F37-FF7D-4793-94F9-E6AC494DAEA6}
+	EndGlobalSection
+EndGlobal
